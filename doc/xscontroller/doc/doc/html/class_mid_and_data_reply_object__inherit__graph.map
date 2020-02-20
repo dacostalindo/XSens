@@ -1,0 +1,3 @@
+<map id="MidAndDataReplyObject" name="MidAndDataReplyObject">
+<area shape="rect" id="node2" href="$class_reply_object.html" title="Abstract reply object. Blocks on a semaphore when requesting the message until the message has been s..." alt="" coords="41,5,136,32"/>
+</map>

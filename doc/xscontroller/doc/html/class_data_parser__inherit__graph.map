@@ -1,0 +1,7 @@
+<map id="DataParser" name="DataParser">
+<area shape="rect" id="node3" href="$class_serial_communicator.html" title="A class that uses serial communication. " alt="" coords="94,155,234,181"/>
+<area shape="rect" id="node2" href="$classxsens_1_1_standard_thread.html" title="A class for a standard thread that has to perform the same action repeatedly. " alt="" coords="85,5,243,32"/>
+<area shape="rect" id="node4" href="$class_proxy_communicator.html" title="ProxyCommunicator" alt="" coords="5,229,147,256"/>
+<area shape="rect" id="node5" href="$class_serial_port_communicator.html" title="A class that uses serial port to communicate. " alt="" coords="171,229,335,256"/>
+<area shape="rect" id="node6" href="$class_usb_communicator.html" title="A class that uses USB to communicate. " alt="" coords="188,304,319,331"/>
+</map>

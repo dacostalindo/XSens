@@ -1,0 +1,34 @@
+<map id="XsArray" name="XsArray">
+<area shape="rect" id="node2" href="$struct_xs_array_impl.html" title="A C++ wrapper for XsArray, this is a template class for the actual specialized classes. " alt="" coords="177,13,333,39"/>
+<area shape="rect" id="node4" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; int, g\l_xsIntArrayDescriptor,\l XsIntArray \&gt;" alt="" coords="179,63,332,119"/>
+<area shape="rect" id="node6" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; int64\l_t, g_xsInt64ArrayDescriptor,\l XsInt64Array \&gt;" alt="" coords="159,143,352,199"/>
+<area shape="rect" id="node8" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; uint8\l_t, g_xsByteArrayDescriptor,\l XsByteArray \&gt;" alt="" coords="160,223,351,279"/>
+<area shape="rect" id="node10" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsCanOutput\lConfiguration, g_xsCanOutput\lConfigurationArrayDescriptor,\l XsCanOutputConfigurationArray \&gt;" alt="" coords="143,304,368,375"/>
+<area shape="rect" id="node12" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsDataPacket\lPtr, g_xsDataPacketPtrArrayDescriptor,\l XsDataPacketPtrArray \&gt;" alt="" coords="127,399,383,455"/>
+<area shape="rect" id="node14" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsDeviceId,\l g_xsDeviceIdArrayDescriptor,\l XsDeviceIdArray \&gt;" alt="" coords="155,479,356,535"/>
+<area shape="rect" id="node16" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsDevicePtr,\l g_xsDevicePtrArrayDescriptor,\l XsDevicePtrArray \&gt;" alt="" coords="152,559,359,615"/>
+<area shape="rect" id="node18" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsFilterProfile,\l g_xsFilterProfileArrayDescriptor,\l XsFilterProfileArray \&gt;" alt="" coords="148,639,363,695"/>
+<area shape="rect" id="node20" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsMessage,\l g_xsMessageArrayDescriptor,\l XsMessageArray \&gt;" alt="" coords="154,719,357,775"/>
+<area shape="rect" id="node22" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsOutputConfiguration,\l g_xsOutputConfigurationArrayDescriptor,\l XsOutputConfigurationArray \&gt;" alt="" coords="123,799,388,855"/>
+<area shape="rect" id="node24" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsPortInfo,\l g_xsPortInfoArrayDescriptor,\l XsPortInfoArray \&gt;" alt="" coords="158,879,353,935"/>
+<area shape="rect" id="node26" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsQuaternion,\l g_xsQuaternionArrayDescriptor,\l XsQuaternionArray \&gt;" alt="" coords="149,959,361,1015"/>
+<area shape="rect" id="node28" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsString,\l g_xsStringArrayDescriptor,\l XsStringArray \&gt;" alt="" coords="164,1039,347,1095"/>
+<area shape="rect" id="node30" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsStringOutput\lType, g_xsStringOutputTypeArray\lDescriptor, XsStringOutputTypeArray \&gt;" alt="" coords="130,1119,381,1175"/>
+<area shape="rect" id="node32" href="$struct_xs_array_impl.html" title="XsArrayImpl\&lt; XsSyncSetting,\l g_xsSyncSettingArrayDescriptor,\l XsSyncSettingArray \&gt;" alt="" coords="145,1199,365,1255"/>
+<area shape="rect" id="node3" href="$struct_xs_string.html" title="A 0&#45;terminated managed string of characters. " alt="" coords="439,5,618,47"/>
+<area shape="rect" id="node5" href="$struct_xs_int_array.html" title="A list of XsInt values. " alt="" coords="487,78,571,105"/>
+<area shape="rect" id="node7" href="$struct_xs_int64_array.html" title="A list of int64_t values. " alt="" coords="479,158,578,185"/>
+<area shape="rect" id="node9" href="$struct_xs_byte_array.html" title="A list of uint8_t values. " alt="" coords="481,238,577,265"/>
+<area shape="rect" id="node11" href="$struct_xs_can_output_configuration_array.html" title="A list of XsCanOutputConfiguration values. " alt="" coords="439,319,618,360"/>
+<area shape="rect" id="node13" href="$struct_xs_data_packet_ptr_array.html" title="A list of XsDataPacketPtr values. " alt="" coords="451,414,606,441"/>
+<area shape="rect" id="node15" href="$struct_xs_device_id_array.html" title="A list of XsDeviceId values. " alt="" coords="468,494,589,521"/>
+<area shape="rect" id="node17" href="$struct_xs_device_ptr_array.html" title="A list of XsDevicePtr values. " alt="" coords="465,574,592,601"/>
+<area shape="rect" id="node19" href="$struct_xs_filter_profile_array.html" title="A list of XsFilterProfile values. " alt="" coords="461,654,596,681"/>
+<area shape="rect" id="node21" href="$struct_xs_message_array.html" title="A list of XsMessage values. " alt="" coords="467,734,590,761"/>
+<area shape="rect" id="node23" href="$struct_xs_output_configuration_array.html" title="A list of XsOutputConfiguration values. " alt="" coords="436,814,621,841"/>
+<area shape="rect" id="node25" href="$struct_xs_port_info_array.html" title="A list of XsPortInfo values. " alt="" coords="471,894,586,921"/>
+<area shape="rect" id="node27" href="$struct_xs_quaternion_array.html" title="A list of XsQuaternion values. " alt="" coords="463,974,595,1001"/>
+<area shape="rect" id="node29" href="$struct_xs_string_array.html" title="A list of XsString values. " alt="" coords="477,1054,580,1081"/>
+<area shape="rect" id="node31" href="$struct_xs_string_output_type_array.html" title="A list of XsStringOutputType values. " alt="" coords="443,1134,614,1161"/>
+<area shape="rect" id="node33" href="$struct_xs_sync_setting_array.html" title="A list of XsSyncSetting values. " alt="" coords="459,1214,599,1241"/>
+</map>

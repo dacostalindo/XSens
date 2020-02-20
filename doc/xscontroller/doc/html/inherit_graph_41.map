@@ -1,0 +1,44 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_device_factory_1_1_device_manager.html" title="An abstract class that is used for removing the existing devices. " alt="" coords="319,56,525,83"/>
+<area shape="rect" id="node2" href="$struct_xs_control.html" title="High level Motion Tracker (MT) management class. " alt="" coords="621,56,701,83"/>
+<area shape="rect" id="node3" href="$struct_xs_control_ex.html" title="An abstract internal struct of a control object. " alt="" coords="823,31,919,57"/>
+<area shape="rect" id="node4" href="$class_file_loader.html" title="A class that loads file. " alt="" coords="619,233,702,260"/>
+<area shape="rect" id="node5" href="$class_mtb_file_communicator.html" title="A class that is used for the communcation with a mtb file. " alt="" coords="796,233,947,260"/>
+<area shape="rect" id="node6" href="$classxsens_1_1_standard_thread.html" title="A class for a standard thread that has to perform the same action repeatedly. " alt="" coords="343,436,501,463"/>
+<area shape="rect" id="node7" href="$class_data_parser.html" title="A class for the data parsing on a separete thread. " alt="" coords="827,512,915,539"/>
+<area shape="rect" id="node12" href="$class_data_poller.html" title="A class implementing some basic data poller behavior. " alt="" coords="619,436,702,463"/>
+<area shape="rect" id="node14" href="$class_packet_error_rate_estimator.html" title="Thread to periodically estimate packet error rate based on expected packet rate. " alt="" coords="573,487,748,513"/>
+<area shape="rect" id="node15" href="$class_restore_communication.html" title="Performs restore communication procedure with a provided COM port. " alt="" coords="581,335,740,361"/>
+<area shape="rect" id="node16" href="$classxsens_1_1_task_thread.html" title="Class for handling small tasks. " alt="" coords="593,385,728,412"/>
+<area shape="rect" id="node8" href="$class_serial_communicator.html" title="A class that uses serial communication. " alt="" coords="995,360,1135,387"/>
+<area shape="rect" id="node9" href="$class_proxy_communicator.html" title="ProxyCommunicator" alt="" coords="1194,335,1335,361"/>
+<area shape="rect" id="node10" href="$class_serial_port_communicator.html" title="A class that uses serial port to communicate. " alt="" coords="1183,385,1347,412"/>
+<area shape="rect" id="node11" href="$class_usb_communicator.html" title="A class that uses USB to communicate. " alt="" coords="1395,385,1525,412"/>
+<area shape="rect" id="node13" href="$class_mt_thread.html" title="A class that implements thread for MT. " alt="" coords="833,436,910,463"/>
+<area shape="rect" id="node17" href="$struct_xs_callback_plain_c.html" title="Structure that contains callback functions for the Xsens Device API. " alt="" coords="5,183,133,209"/>
+<area shape="rect" id="node18" href="$class_xs_callback.html" title="Structure that contains callback functions for the Xsens Device API. " alt="" coords="181,183,271,209"/>
+<area shape="rect" id="node19" href="$class_callback_manager_xda.html" title="Class that delegates callbacks to registered XsCallbackHandlerItems. " alt="" coords="349,183,495,209"/>
+<area shape="rect" id="node20" href="$struct_communicator.html" title="A base struct for a communication interface. " alt="" coords="607,183,714,209"/>
+<area shape="rect" id="node22" href="$class_data_logger.html" title="An abstract class for data logging. " alt="" coords="616,284,705,311"/>
+<area shape="rect" id="node24" href="$struct_xs_device.html" title="A pointer to an XsDevice object. " alt="" coords="613,132,709,159"/>
+<area shape="rect" id="node21" href="$class_device_communicator.html" title="A class that is used for the communcation with a device. " alt="" coords="797,183,945,209"/>
+<area shape="rect" id="node23" href="$class_mtb_data_logger.html" title="A class for logging the mtb data. " alt="" coords="816,284,927,311"/>
+<area shape="rect" id="node25" href="$class_broadcast_device.html" title="Intimately entangled class with XsControl that allows broadcasting to all main devices. " alt="" coords="810,81,933,108"/>
+<area shape="rect" id="node26" href="$struct_xs_device_ex.html" title="An abstract internal struct of a device. " alt="" coords="824,132,919,159"/>
+<area shape="rect" id="node27" href="$class_mt_device.html" title="MT device base class. " alt="" coords="1025,132,1104,159"/>
+<area shape="rect" id="node28" href="$struct_mt_device_ex.html" title="An abstract struct of MT device. " alt="" coords="1217,132,1312,159"/>
+<area shape="rect" id="node29" href="$class_mti_base_device.html" title="The generic class for MTi devices. " alt="" coords="1405,132,1515,159"/>
+<area shape="rect" id="node30" href="$struct_mti_base_device_ex.html" title="The internal base class for MTi devices. " alt="" coords="1573,132,1700,159"/>
+<area shape="rect" id="node31" href="$class_mti6_x0_device.html" title="The MTi device used for the 6X0&#45;series. " alt="" coords="1748,5,1852,32"/>
+<area shape="rect" id="node33" href="$class_mti7_device.html" title="The MTi device used for the 7&#45;series. " alt="" coords="1756,56,1844,83"/>
+<area shape="rect" id="node35" href="$class_mtig_device.html" title="The MTi device used for the 7X0&#45;series. " alt="" coords="1756,107,1844,133"/>
+<area shape="rect" id="node37" href="$class_mti_x00_device.html" title="The MTi device used for the X00&#45;series. " alt="" coords="1748,157,1852,184"/>
+<area shape="rect" id="node39" href="$class_mti_x0_device.html" title="The MTi device used for the X0&#45;series. " alt="" coords="1751,208,1849,235"/>
+<area shape="rect" id="node41" href="$class_mti_x_device.html" title="The MTi device used for the X&#45;series. " alt="" coords="1755,259,1845,285"/>
+<area shape="rect" id="node32" href="$struct_mti6_x0_device_ex.html" title="The internal base class for MTi&#45;6X0 series devices. " alt="" coords="1900,5,2020,32"/>
+<area shape="rect" id="node34" href="$struct_mti7_device_ex.html" title="The internal base class for MTi&#45;7 series devices. " alt="" coords="1908,56,2012,83"/>
+<area shape="rect" id="node36" href="$struct_mtig_device_ex.html" title="The internal base class for MTi&#45;7X0 series devices. " alt="" coords="1908,107,2012,133"/>
+<area shape="rect" id="node38" href="$struct_mti_x00_device_ex.html" title="The internal base class for MTi&#45;X00 series devices. " alt="" coords="1900,157,2020,184"/>
+<area shape="rect" id="node40" href="$struct_mti_x0_device_ex.html" title="The internal base class for MTi&#45;X0 series devices. " alt="" coords="1903,208,2017,235"/>
+<area shape="rect" id="node42" href="$struct_mti_x_device_ex.html" title="The internal base class for MTi&#45;X series devices. " alt="" coords="1907,259,2013,285"/>
+</map>

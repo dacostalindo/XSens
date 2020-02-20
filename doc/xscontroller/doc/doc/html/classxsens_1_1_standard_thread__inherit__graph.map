@@ -1,0 +1,13 @@
+<map id="xsens::StandardThread" name="xsens::StandardThread">
+<area shape="rect" id="node2" href="$class_data_parser.html" title="A class for the data parsing on a separete thread. " alt="" coords="254,31,342,57"/>
+<area shape="rect" id="node7" href="$class_data_poller.html" title="A class implementing some basic data poller behavior. " alt="" coords="257,81,339,108"/>
+<area shape="rect" id="node9" href="$class_packet_error_rate_estimator.html" title="Thread to periodically estimate packet error rate based on expected packet rate. " alt="" coords="211,132,385,159"/>
+<area shape="rect" id="node10" href="$class_restore_communication.html" title="Performs restore communication procedure with a provided COM port. " alt="" coords="219,183,377,209"/>
+<area shape="rect" id="node11" title="A class that contains a thread that runs in a ThreadPool to execute tasks. " alt="" coords="225,233,371,260"/>
+<area shape="rect" id="node12" href="$classxsens_1_1_task_thread.html" title="Class for handling small tasks. " alt="" coords="231,284,365,311"/>
+<area shape="rect" id="node3" href="$class_serial_communicator.html" title="A class that uses serial communication. " alt="" coords="433,31,573,57"/>
+<area shape="rect" id="node4" href="$class_proxy_communicator.html" title="ProxyCommunicator" alt="" coords="633,5,774,32"/>
+<area shape="rect" id="node5" href="$class_serial_port_communicator.html" title="A class that uses serial port to communicate. " alt="" coords="621,56,785,83"/>
+<area shape="rect" id="node6" href="$class_usb_communicator.html" title="A class that uses USB to communicate. " alt="" coords="833,56,964,83"/>
+<area shape="rect" id="node8" href="$class_mt_thread.html" title="A class that implements thread for MT. " alt="" coords="465,81,542,108"/>
+</map>
